@@ -49,4 +49,12 @@ Welcome to my collection of web scraping projects built using **Selenium**, **Be
 
 ---
 
-## 📂 Folder Structure
+## 🧠 What I Learned
+
+- Handling dynamic content with Selenium
+- Navigating complex HTML structures
+- Writing resilient scrapers with fallback logic
+- Preparing clean datasets for Power BI and ML models
+
+---
+
