@@ -37,5 +37,6 @@ while True:
 
 # Save the final HTML content of the page to a local file
 html = driver.page_source
-with open("smartprix_Scraping/smartprixhtml1.html", 'w', encoding='utf-8') as f:
+with open("Smart_prix_Scraping/smartprixhtml1.html", 'w', encoding='utf-8') as f:
+
     f.write(html)
